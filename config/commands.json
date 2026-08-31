@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "lang": "iw-IL",
+  "navScheme": "waze",
+  "readNotifications": true,
+  "phrases": {
+    "call": ["התקשר ל", "תתקשר ל", "חייג ל", "תחייג ל", "call ", "dial "],
+    "sms": ["שלח הודעה ל", "תשלח הודעה ל", "הודעה ל", "סמס ל", "send message to ", "send a message to ", "text "],
+    "whatsapp": ["שלח וואטסאפ ל", "שלח ואטסאפ ל", "וואטסאפ ל", "ואטסאפ ל", "ווצאפ ל", "וואצאפ ל", "whatsapp to ", "whatsapp ", "send whatsapp to "],
+    "readMessages": ["הקרא הודעות", "קרא הודעות", "תקרא הודעות", "read messages", "read my messages"],
+    "navHome": ["נווט הביתה", "נווט לבית", "ניווט הביתה", "navigate home"],
+    "navWork": ["נווט לעבודה", "ניווט לעבודה", "navigate to work", "navigate work"],
+    "navTo": ["נווט ל", "תנווט ל", "ניווט ל", "navigate to "],
+    "calendar": ["מה ביומן", "יומן", "מה יש ביומן", "תזכורות", "calendar", "my events", "reminders"],
+    "time": ["מה השעה", "what time", "whats the time"],
+    "answer": ["ענה", "תענה", "answer"],
+    "reject": ["דחה", "נתק", "תדחה", "reject", "decline"],
+    "yes": ["כן", "שלח", "אישור", "yes", "send", "ok", "okay"],
+    "no": ["לא", "בטל", "ביטול", "no", "cancel"],
+    "help": ["עזרה", "help"],
+    "stop": ["עצור", "סיים", "stop"],
+    "openApp": ["פתח את ", "פתח ", "תפתח את ", "תפתח ", "open "]
+  }
+}
